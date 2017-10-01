@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Decreto Legislativo 2001 N.231"
+date: 2017-09-30
+---
+> N.B Quanto segue è solo un riassunto del materiale presente nel corso di "Gestione della sicurezza dei sistemi informativi" tenuto dal docente Donato Caccavella per il corso di laurea SSRI di Crema nell'anno accademico 2016/2017.   
+
 Nel caso in cui chi commette un reato è una persona fisica appartenente ad un ente o ad una persona giuridica, di chi è la responsabilità? L’ente ne viene coinvolto?  
 Fino al 2001 no.  
 
