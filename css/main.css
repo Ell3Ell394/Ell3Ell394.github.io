@@ -14,7 +14,8 @@ p, ul {
 	line-height: 1.4em; 
 	color: #333;
 	font-family: 'Open Sans';
-	text-align: justify }
+	text-align: justify 
+}
 pre, code {
 background-color: #ecf0f1;
 white-space: pre-wrap; 
