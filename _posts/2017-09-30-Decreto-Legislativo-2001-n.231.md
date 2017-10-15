@@ -14,7 +14,7 @@ Non si applica laddove l’organizzazione non consenta di scindere la responsabi
 Sono esclusi lo Stato, gli enti pubblici territoriali, gli enti pubblici non economici, gli enti pubblici strumentali e quelli che svolgono funzioni di rilievo costituzionale.  
 La responsabilità è diretta e autonoma, ovvero la responsabilità dell’ente sussiste anche nel caso in cui l’autore del reato non è stato identificato o non è imputabile.  
 
-### Come evitare le sansioni
+### Come evitare le sanzioni
 Se il reato è commesso da soggetti in posizione apicale è necessario che l’ente dimostri di aver adottato modelli organizzativi, di gestione e di controllo, idonei a prevenire reati della specie poi verificatasi, è inoltre necessario provare di aver istituito un organismo di controllo interno e autonomo dotato di poteri di vigilanza, oltre che dimostrare che gli enti abbiano commesso il reato eludendo i protocolli preventivi ovvero che non vi siano state omissioni nell’operato dell’organismo di controllo.  
 Se invece il reato è stato commesso da un dipende non è necessaria la prova della elusione fraudolenta dei protocolli preventivi mentre sono necessarie le altre prove.  
 Per limitare la commissione di reati nel contesto aziendale occorre sicuramente partire da una responsabilizzazione di tutti i soggetti che vi lavorano, attraverso la predisposizione di corsi di formazione interna oltre che la redazione di un vero e proprio codice di comportamento informatico.
